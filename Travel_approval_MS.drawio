@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:13:42.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7244o40gsPQ2JPMWeIoI" version="21.1.5" type="github">
+  <diagram name="Page-1" id="LmYB5mZEhb-Kilfknq66">
+    <mxGraphModel dx="1094" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-1" value="TRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-2" value="TAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-3" value="Other Department&lt;br&gt;(If required)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-5" value="Manager/Finance" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=middle;html=1;outlineConnect=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="44" y="67" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Rgf5fa5OX8QrjMJYRET3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.5" y="600" as="sourcePoint" />
+            <mxPoint x="469.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699.5" y="600" as="sourcePoint" />
+            <mxPoint x="699.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="180" as="sourcePoint" />
+            <mxPoint x="240" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-13" value="Form submitted to TRM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-15" value="Forward for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-16" value="" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;strokeWidth=1;jettyWidth=76;jettyHeight=26;flipV=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-20" value="IF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="335" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-21" value="ELSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422" y="387" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.5" y="600" as="sourcePoint" />
+            <mxPoint x="50" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.234;exitY=0.627;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443.6600000000001" y="350.22" as="sourcePoint" />
+            <mxPoint x="50" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-25" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="402" as="sourcePoint" />
+            <mxPoint x="49" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="378" as="sourcePoint" />
+            <mxPoint x="701" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-27" value="Approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-28" value="Rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109" y="373" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rgf5fa5OX8QrjMJYRET3-29" value="Forward to Other department if required" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="342" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
